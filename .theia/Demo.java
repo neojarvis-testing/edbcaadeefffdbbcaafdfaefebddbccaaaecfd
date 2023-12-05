@@ -3,6 +3,7 @@ public class Demo {
         System.out.println("welcome");
         System.out.println();\
         System.out.println();
+        System.err.println();
     }
     
 }
